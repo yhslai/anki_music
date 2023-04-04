@@ -1,0 +1,27 @@
+---
+- abs_value: 0
+  names: [P1, d2]
+- abs_value: 1
+  names: [m2, A1]
+- abs_value: 2
+  names: [M2, d3]
+- abs_value: 3
+  names: [m3, A2]
+- abs_value: 4
+  names: [M3, d4]
+- abs_value: 5  
+  names: [P4, A3]
+- abs_value: 6
+  names: [TT, A4, d5]
+- abs_value: 7
+  names: [P5, d6]
+- abs_value: 8
+  names: [m6, A5]
+- abs_value: 9
+  names: [M6, d7]
+- abs_value: 10
+  names: [m7, A6]
+- abs_value: 11
+  names: [M7, d8]
+- abs_value: 12
+  names: [P8, A7]

@@ -1,0 +1,73 @@
+---
+-
+  degree: 1
+  solfeges:
+    -
+      name: Do
+      value: 0
+    -
+      name: Di
+      value: 1
+-
+  degree: 2
+  solfeges:
+    -
+      name: Ra
+      value: 1
+    -
+      name: Re
+      value: 2
+    -
+      name: Ri
+      value: 3
+-
+  degree: 3
+  solfeges:
+    -
+      name: Me
+      value: 3
+    -
+      name: Mi
+      value: 4
+-
+  degree: 4
+  solfeges:
+    -
+      name: Fa
+      value: 5
+    -
+      name: Fi
+      value: 6
+-
+  degree: 5
+  solfeges:
+    -
+      name: Se
+      value: 6
+    -
+      name: Sol
+      value: 7
+    -
+      name: Si
+      value: 8
+-
+  degree: 6
+  solfeges:
+    -
+      name: Le
+      value: 8
+    -
+      name: La
+      value: 9
+    -
+      name: Li
+      value: 10
+-
+  degree: 7
+  solfeges:
+    -
+      name: Te
+      value: 10
+    -
+      name: Ti
+      value: 11

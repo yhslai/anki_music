@@ -1,0 +1,28 @@
+---
+# Notes
+- abs_value: 0
+  names: [C, B#]
+- abs_value: 1
+  names: [C#, Db]
+- abs_value: 2
+  names: [D]
+- abs_value: 3
+  names: [D#, Eb]
+- abs_value: 4
+  names: [E, Fb]
+- abs_value: 5
+  names: [F, E#]
+- abs_value: 6
+  names: [F#, Gb]
+- abs_value: 7
+  names: [G]
+- abs_value: 8
+  names: [G#, Ab]
+- abs_value: 9
+  names: [A]
+- abs_value: 10
+  names: [A#, Bb]
+- abs_value: 11
+  names: [B, Cb]
+
+
